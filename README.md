@@ -2,9 +2,9 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-summation 1
-extraction 2
-divide 3
-multiplication 4
+#summation [1]
+#extraction [2]
+#divide [3]
+#multiplication [4]
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
